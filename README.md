@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kevin
 =======================================================================================================================================
 
-3rd Year Automotive and Robotics Engineering Students who enjoys creating and innovating ML/AI systems
+3rd Year Automotive and Robotics Engineering Students who enjoys creating and innovating ML/AI systems and cloud computing enthusiast
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [hi.kevnat@gmail.com](mailto:hi.kevnat@gmail.com)
-* 🧠  I'm learning YOLO, OpenCV TensorFlow, PyTorch
+* 🧠  I'm learning YOLO, TensorFlow, PyTorch
 * 🤝  I'm open to collaborating on other AI projects!
 
 ### Skills
