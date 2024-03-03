@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kevin
 =======================================================================================================================================
 
-3rd Year Automotive and Robotics Engineering Students | ML/AI | Cloud Computing 
+AI and Cloud Computing Enthusiast
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [hi.kevnat@gmail.com](mailto:hi.kevnat@gmail.com)
