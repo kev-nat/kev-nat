@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kevin
+=======================================================================================================================================
 
-<!--
-**kev-nat/kev-nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd Year Automotive and Robotics Engineering Students | AI and Cloud Computing Enthusiast
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Core: Python | C++ | C# | C# | Java | Kotlin | Go | JavaScript | Git
+* Frontend: HTML | CSS | Bootstrap
+* Backend and Database: NodeJS | MySQL | PostgreSQL | MongoDB | Firebase | InfluxDB
+* Cloud Computing: Google Cloud Platform (GCP) | Docker | Kubernetes
+* Others: TensorFlow | PyTorch | YOLO | OpenCV
+* Microcontrollers: Arduino | ESP32 | Raspberry Pi | Jetson Nano
+
+✉️  You can contact me at [hi.kevnat@gmail.com](mailto:hi.kevnat@gmail.com)
+🤝  I'm open to collaborating on other AI projects!
