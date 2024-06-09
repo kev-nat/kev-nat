@@ -6,10 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Skills 👨‍💻
 
 * <b> Core: </b> Python | C++ | C# | Java | Kotlin | Go | JavaScript | Git
-* <b> Frontend: </b> HTML | CSS | Bootstrap
+* <b> Frontend: </b> HTML | CSS
 * <b> Backend and Database: </b> NodeJS | MySQL | MongoDB | Firebase | InfluxDB
-* <b> Cloud Computing: </b> Google Cloud Platform (GCP) | Docker | Kubernetes | Terraform
-* <b> Libraries & Framework: </b> TensorFlow | PyTorch | Keras | YOLO | OpenCV | PIL
+* <b> AI/ML: </b> TensorFlow | PyTorch | Keras | YOLO | OpenCV | PIL | pandas | seaborn | sci_kitlearn
+* <b> DevOps: </b> Google Cloud Platform (GCP) | Docker | Kubernetes | Terraform
 * <b> Microcontrollers: </b> Arduino | ESP32 | Raspberry Pi | Jetson Nano
 * <b> CAD: </b> SOLIDWORKS | Autodesk Inventor | Fusion360 | AutoCAD | SketchUp
 * <b> Software: </b> MATLAB | Looker | Android Studio
