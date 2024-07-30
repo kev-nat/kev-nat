@@ -13,7 +13,7 @@
 
 ### Frameworks and Libraries:
 
-| TF | PyTorch | OpenCV | Sklearn | NumPy |
+| TensorFlow | PyTorch | OpenCV | Sklearn | NumPy |
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>|
 
