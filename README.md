@@ -1,5 +1,5 @@
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-- :telescope: Ready to contribute effectively as a Machine Learning Engineer or Data Scientist.
+- :telescope: Ready to contribute effectively as a Data Scientist
 - :mailbox: Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-kevnat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-nathanael/)
 
 ## Languages and Tools 
