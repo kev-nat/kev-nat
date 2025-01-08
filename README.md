@@ -1,6 +1,6 @@
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-- :telescope: Ready to contribute effectively as a Data Scientist
-- :mailbox: Let's Connect [![Linkedin Badge](https://img.shields.io/badge/-kevnat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-nathanael/)
+- :telescope: I am open to contributing in roles such as an AI Engineer, Robotics Engineer, or Data Scientist.
+- :mailbox: Let's connect [![Linkedin Badge](https://img.shields.io/badge/-kevnat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-nathanael/)
 
 ## Languages and Tools 
 <div>
