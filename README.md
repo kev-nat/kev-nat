@@ -4,5 +4,5 @@
   
 I'm **Kevin**, a Robotics Engineer with experience solving complex industry challenges by delivering large-scale, high-impact solutions across TMT, financial services, government & public sector.
 
-I’m passionate about large-scale technology, particularly Robotics and LLM Agent development on industry-leading platforms.
+I’m passionate about large-scale technology, particularly Robotics and AI development on industry-leading platforms.
 </div>
