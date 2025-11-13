@@ -2,7 +2,7 @@
 
 <div align="justify">
   
-I'm **Kevin**, a Robotics Engineer with experience solving complex industry challenges by delivering large-scale, high-impact solutions across TMT, financial services, and public sector.
+I'm **Kevin**, I build robotics systems, leverage AI at scale, translate technology into business strategy across TMT, financial services, and the public sector.
 
-I’m passionate about large-scale technology, particularly Robotics and AI development on industry-leading platforms.
+I’m passionate about large-scale technology, particularly Robotics and AI development on industry leading platforms.
 </div>
