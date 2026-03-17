@@ -2,7 +2,7 @@
 
 <div align="justify">
   
-I'm **Kevin**, I build robotics systems, leverage AI at scale, and translate technology into business strategy across industries.
+I'm **Kevin**, I translate robotics applications into scalable growth strategies to unlock new business value across industries.
 
-I’m passionate about large-scale technology, particularly Robotics and AI development on industry leading platforms.
+I have deep interest in Robotics, AI development, Industrials, and Private Capital.
 </div>
