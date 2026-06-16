@@ -4,5 +4,5 @@
   
 I'm **Kevin**, I translate robotics applications into scalable growth strategies to unlock new business value across industries.
 
-I have deep interest in Robotics, AI development, Industrials, and Private Capital.
+I have deep interest in Robotics, AI development, and Private Capital.
 </div>
